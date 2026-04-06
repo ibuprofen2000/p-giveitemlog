@@ -10,8 +10,8 @@ A lightweight **Give-Item Logging System** for FiveM servers using `ox_inventory
 - Easy to customize
 
 ## 🔒 Security
-Webhooks Are Protected 🔒
-Server-Side Loaded 🔒
+- Webhooks Are Protected 🔒
+- Server-Side Loaded 🔒
 
 ## ⚙️ Requirements
 - [ox_inventory](https://github.com/overextended/ox_inventory)
