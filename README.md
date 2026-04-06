@@ -1,2 +1,19 @@
 # p-giveitemlog
-Give-Item Logging System For FiveM Servers With Ox_inventorys
+
+A lightweight **Give-Item Logging System** for FiveM servers using `ox_inventory`.
+
+## 📌 Features
+- Logs all give-item actions
+- Supports `ox_inventory`
+- Clean and simple setup
+- Optimized for performance
+- Easy to customize
+
+## ⚙️ Requirements
+- [ox_inventory](https://github.com/overextended/ox_inventory)
+- FiveM server (latest recommended build)
+
+## 📥 Installation
+1. Download or clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/p-giveitemlog.git
